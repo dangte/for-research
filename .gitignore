@@ -1,0 +1,11 @@
+# OS / editor junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+*~
+*.tmp
+*.bak
+
+# never track local backups or archives
+.skill-backups/
+*.zip
