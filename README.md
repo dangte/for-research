@@ -23,6 +23,13 @@ research framing, defense prep) plus supplementary skills. Kept as a **private b
 **Third-party (redistributed under their own license)**
 - `humanizer` — by **blader**, MIT License. See `skills/humanizer/LICENSE`. Source patterns from Wikipedia "Signs of AI writing". Upstream: https://github.com/blader/humanizer
 
+## License & CI
+
+- **License:** `LICENSE` (MIT) covers only the repository owner's original skills; third-party
+  and unconfirmed components are carved out — see `PROVENANCE.md`.
+- **CI:** `.github/workflows/validate-skills.yml` validates that every `SKILL.md` has valid
+  YAML frontmatter with a non-empty `name` and `description`, on every push/PR.
+
 ## Provenance & licensing note
 
 The authorship/license of the core research suite is **not fully established**; this
