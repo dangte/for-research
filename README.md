@@ -37,5 +37,6 @@ repository is therefore kept **private** as a personal backup, not for public
 redistribution. Before making any part public, confirm each skill's origin and add an
 explicit license. `humanizer` is redistributed with its MIT license and attribution intact.
 
-> Excluded on purpose: `clean-user-facing-text` (watermark/Unicode cleaner) — license/origin
-> unconfirmed, so it is not included here.
+> Private-only: `clean-user-facing-text` (watermark/Unicode cleaner) is included as a personal
+> backup, but its license/origin is unconfirmed. Do not make this repository public without first
+> establishing its license (or removing it). See `PROVENANCE.md`.
