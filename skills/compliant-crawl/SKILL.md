@@ -14,7 +14,10 @@ Thu thập **dữ liệu công khai, dạng tổng hợp** cho nghiên cứu đ�
 xuất **CSV kèm ghi công** để dùng và chia sẻ. Ưu tiên nguồn chính thống/mở trước khi crawl.
 
 > Có bộ công cụ chạy thật kèm theo tại `C:\K3 Research\compliant-data-toolkit\`
-> (`compliant_fetch.py`, `extract_tables.py`, `normalize.py`, `sources.csv`, `COMPLIANCE.md`, `CREDITS.md`).
+> (`compliant_fetch.py`, `ingest_open.py`, `extract_tables.py`, `normalize.py`, `sources.csv`, `COMPLIANCE.md`, `CREDITS.md`).
+>
+> **Đa định dạng:** `ingest_open.py` đọc **CSV, JSON, XLSX, bảng HTML** và **API mở** (fetch qua lớp tuân thủ),
+> map vào schema kèm ghi công. `extract_tables.py` lo **PDF**. Ưu tiên định dạng mở/API trước khi crawl HTML.
 
 ## Đầu vào tối thiểu
 Hỏi tối đa 3 câu: (1) Cần dữ liệu gì, đơn vị/năm nào? (2) Nguồn nào (portal trường / Bộ / thống kê QG / dữ liệu mở / báo chí)? (3) Kết quả dạng gì (CSV chia sẻ, hay chỉ tra cứu)?
