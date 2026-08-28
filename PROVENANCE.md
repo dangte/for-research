@@ -9,6 +9,7 @@ decision to make the repository public.
 | `aaouj-compliance` | Repository owner (created for this project) | MIT (top-level `LICENSE`) |
 | `research-brainstorming` | Repository owner; independent reimplementation *inspired by* [obra/superpowers](https://github.com/obra/superpowers) `brainstorming` (MIT). No source text copied. | MIT (top-level `LICENSE`); idea credit to obra |
 | `literature-review/sub-skills/kiem-tra-gap-con-mo` | Repository owner (created for this project) | MIT (top-level `LICENSE`) |
+| `compliant-crawl` | Repository owner (created for this project) | MIT (top-level `LICENSE`) |
 | `humanizer` | **blader** — https://github.com/blader/humanizer | **MIT**, retained in `skills/humanizer/LICENSE`. Pattern list derived from Wikipedia "Signs of AI writing" (CC BY-SA) |
 | `academic-writing`, `citation-manager`, `critical-review`, `data-analysis`, `defense-prep`, `literature-review` (core + other sub-skills), `methodology-design`, `research-framework` | **UNCONFIRMED** — origin not established by the repository owner | **NOT licensed** by this repository; retained privately pending clarification |
 | `clean-user-facing-text` (watermark/Unicode cleaner) | **UNCONFIRMED** — description matches an Anthropic-published skill; no LICENSE file | **NOT licensed** by this repository; **PRIVATE ONLY** — must confirm license/origin before any public use |

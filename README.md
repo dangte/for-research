@@ -19,6 +19,7 @@ research framing, defense prep) plus supplementary skills. Kept as a **private b
 **Supplementary**
 - `research-brainstorming` — clarify a research idea before drafting (Socratic gate). Independent reimplementation *inspired by* [obra/superpowers](https://github.com/obra/superpowers) `brainstorming` (MIT); no source text copied.
 - `aaouj-compliance` — pre-submission checklist for the *Asian Association of Open Universities Journal* (Emerald). Contains brief quoted guideline text for reference; verify against the official author guidelines before use.
+- `compliant-crawl` — compliant web data-collection workflow (robots.txt/ToS, no PII, source attribution, CSV output). Pairs with the runnable toolkit kept in the research project (not in this repo).
 
 **Third-party (redistributed under their own license)**
 - `humanizer` — by **blader**, MIT License. See `skills/humanizer/LICENSE`. Source patterns from Wikipedia "Signs of AI writing". Upstream: https://github.com/blader/humanizer
